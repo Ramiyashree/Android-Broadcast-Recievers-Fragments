@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">APP3</string>
+
+    <string name="kaboom_short">Do kaboom</string>
+    <string name="kaboom_long">Do kaboom and send broadcasts</string>
+</resources>
